@@ -1,1 +1,1 @@
-# recipes
+This is a recipe site that shows some simple foods from Tara. And it's an exercise in The Odin Project.
