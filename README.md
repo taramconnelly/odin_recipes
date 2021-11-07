@@ -1,1 +1,1 @@
-This is a recipe site that shows some simple foods from Tara. And it's an exercise in The Odin Project.
+This is a recipe site that shows some simple foods from Tara. And it's an exercise in The Odin Project. Hope you like sweets, this is for the sweet-toothed fans.
