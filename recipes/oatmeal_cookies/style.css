@@ -1,0 +1,22 @@
+.oatmeal {
+
+    width: 300px;   
+    height: auto;
+}
+
+.headline {
+    background-color:rgb(172, 74, 70);
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.description, .ingredients, .steps {
+    background-color: rgb(112, 88, 84);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
